@@ -24,5 +24,4 @@ python main.py
 - Detects face and eyes
 - Alerts when driver is drowsy
 
-## 📌 Author
-Your Name# Driver-Drowsiness-Detection
+- Driver-Drowsiness-Detection
